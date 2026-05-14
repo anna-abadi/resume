@@ -5,13 +5,12 @@ export const resume = {
   email: 'faeghe.hajiabadi@gmail.com',
   linkedin: 'https://www.linkedin.com/in/annaabadi',
   github: 'https://github.com/faeghe-hajiabadi',
-  tagline: 'Building Digital Products That Drive Impact.',
+  tagline: 'Clean Code. Thoughtful Design. Real Results.',
   summary:
     'Front-End Developer with 5+ years crafting responsive, user-centred web applications across fintech, health & entertainment — with a strong eye for design. Currently expanding into Node.js & Express.js for full end-to-end solutions.',
   stats: [
     { value: '5+', label: 'Years Experience' },
-    { value: '4', label: 'Companies' },
-    { value: '87%', label: 'Test Coverage' }
+    { value: '4', label: 'Companies' }
   ],
   skills: [
     {
