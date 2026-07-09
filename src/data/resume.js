@@ -4,7 +4,7 @@ export const resume = {
   location: 'Vancouver, British Columbia',
   email: 'faeghe.hajiabadi@gmail.com',
   linkedin: 'https://www.linkedin.com/in/annaabadi',
-  github: 'https://github.com/faeghe-hajiabadi',
+  github: 'https://github.com/anna-abadi',
   tagline: 'Clean Code. Thoughtful Design. Real Results.',
   summary:
     'Front-End Developer with 5+ years crafting responsive, user-centred web applications across fintech, health & entertainment — with a strong eye for design. Currently expanding into Node.js & Express.js for full end-to-end solutions.',
